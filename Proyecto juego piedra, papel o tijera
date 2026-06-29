@@ -1,0 +1,13 @@
+OBJETIVO: 
+Desarrollar un programa en Python que permita jugar Piedra, Papel o Tijera entre un usuario y la computadora, aplicando los conceptos fundamentales de programación.
+
+FUNCIONALIDADES DEL PROGRAMA
+El programa Piedra, Papel o Tijera permite al usuario jugar contra la computadora de forma sencilla e interactiva. 
+Sus principales funcionalidades son:
+Solicita al usuario que ingrese una opción: piedra, papel o tijera.
+Genera automáticamente una elección aleatoria para la computadora.
+Compara ambas elecciones aplicando las reglas del juego.
+Determina y muestra el resultado de cada partida (ganar, perder o empatar).
+Valida que la opción ingresada por el usuario sea correcta.
+Ejecuta cinco partidas consecutivas mediante un ciclo for.
+Utiliza una tupla para almacenar las opciones del juego y un diccionario para simplificar la lógica de comparación entre las jugadas.
